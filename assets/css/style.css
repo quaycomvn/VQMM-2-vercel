@@ -1,0 +1,15 @@
+body{margin:0;font-family:Arial;background:#f4f6f8;color:#333}
+.header{background:#fff;padding:15px 30px;display:flex;justify-content:space-between;align-items:center}
+.header img{height:50px}
+.header nav a{margin-left:20px;text-decoration:none;font-weight:600;color:#333}
+.container{max-width:1000px;margin:auto;padding:30px}
+.intro{font-size:16px}
+.wheel-wrapper{text-align:center;margin:40px 0;position:relative}
+.pointer{font-size:30px;color:red;margin-bottom:-10px}
+#wheel{background:#fff;border-radius:50%}
+#spinBtn{margin-top:20px;padding:14px 30px;font-size:16px;background:#ff5722;color:#fff;border:none;border-radius:6px;cursor:pointer}
+#spinBtn:hover{background:#e64a19}
+.result-box{margin-top:15px;font-size:18px;font-weight:bold;background:#fff;padding:15px;border-radius:6px}
+.note{background:#fff;padding:20px;border-radius:6px}
+.footer{background:#222;color:#ccc;text-align:center;padding:20px}
+.footer a{color:#ffcc00}
